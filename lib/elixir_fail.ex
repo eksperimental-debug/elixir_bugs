@@ -1,0 +1,2 @@
+defmodule ElixirFail do
+end
