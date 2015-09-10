@@ -1,0 +1,2 @@
+defmodule ElixirBugs do
+end
